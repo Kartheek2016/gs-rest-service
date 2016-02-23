@@ -19,6 +19,6 @@ Modules:
 - Web-MVC
 
 MVC Architecture:
-M - Model: Database + ORM (Hibernate + MySQL)
-V - View (html, jsp, js)
-C - Controller (Servlets)
+* M - Model: Database + ORM (Hibernate + MySQL)
+* V - View (html, jsp, js)
+* C - Controller (Servlets)
